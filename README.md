@@ -25,10 +25,6 @@ All shortcuts use the modified prefix key **Ctrl+a** (default is Ctrl+b).
 |---|---|
 | `C-a + -` | Split window vertically |
 | `C-a + \|` | Split window horizontally |
-| `C-a + j` | Move to left pane |
-| `C-a + k` | Move to bottom pane |
-| `C-a + i` | Move to top pane |
-| `C-a + l` | Move to right pane |
 | `C-a + r` | Rename current window |
 | `C-a + R` | Rename current session |
 
